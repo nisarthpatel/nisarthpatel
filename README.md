@@ -45,7 +45,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisarthpatel &theme=react" alt="nisarthpatel" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisarthpatel&theme=react" alt="nisarthpatel" />
 </div>
 
 ## 🔥 Recent Projects
